@@ -73,7 +73,7 @@
               "entity": "this",
               "predicate": {
                 "location": {
-                  "structures": "mcs:temple_megaplains"
+                  "structures": "mcs:temple_sunflower"
                 }
               }
             }
