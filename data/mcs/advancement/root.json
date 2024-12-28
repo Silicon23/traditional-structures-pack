@@ -4,11 +4,11 @@
       "id": "minecraft:red_sandstone"
     },
     "title": "Chinese World",
-    "description": "welcome to the beautiful Chinese world!",
+    "description": "Welcome to the beautiful Chinese world!",
     "frame": "task",
     "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
     "show_toast": true,
-    "announce_to_chat": true
+    "announce_to_chat": false
   },
   "criteria": {
     "requirement": {

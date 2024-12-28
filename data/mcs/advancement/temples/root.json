@@ -65,7 +65,7 @@
         },
         "trigger": "minecraft:location"
       },
-      "megaplains": {
+      "sunflower": {
         "conditions": {
           "player": [
             {
@@ -169,7 +169,8 @@
       "title": "All Temples",
       "description": "A majestic cluster of temples resonating with cultural and spiritual harmony.",
       "frame": "challenge",
-      "announce_to_chat": true
+      "announce_to_chat": true,
+      "show_toast": true
     },
     "requirements": [
       [
@@ -185,7 +186,7 @@
         "hills"
       ],
       [
-        "megaplains"
+        "sunflower"
       ],
       [
         "plains"
@@ -198,6 +199,9 @@
       ],
       [
         "snowyplains"
+      ],
+      [
+        "shrine"
       ]
     ],
     "rewards": {
